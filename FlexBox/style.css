@@ -16,12 +16,10 @@
     
     
     .tarjeta {
-      width: 380px;
+      width: 340px;
       background: white;
-      
+      border-radius: 10%;
       padding: 25px;
-      
-
       display: flex;
       flex-direction: column;
       gap: 20px;
